@@ -436,4 +436,3 @@ The screenshot below shows the end result of another execution attempt.;
 ---
 
 End of Project!
->>>>>>> 6f208ec (removed readme empty file)
