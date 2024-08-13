@@ -430,3 +430,10 @@ The screenshot below shows the end result of another execution attempt.;
 ---
 
 **I have attempted this same project five times, and it gets better, faster, and easier to execute each time.**
+<<<<<<< HEAD
+=======
+
+---
+
+End of Project!
+>>>>>>> 6f208ec (removed readme empty file)
